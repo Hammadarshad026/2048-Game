@@ -29,7 +29,7 @@ I've recreated the popular 2048 puzzle game using Python and Tkinter. It's fun, 
     ```
 
 ## Screenshot
-![Game Screenshot](link-to-screenshot)
+![Game Screenshot](https://github.com/Hammadarshad026/2048-Game/blob/9a209f4a144ff8a0ef729e61d4f0e9e309e3a1cd/Screenshot%202024-06-27%20200131.png)
 
 ## Contributing
 Fork the repo, make improvements, and submit a pull request. Contributions are welcome!
